@@ -1,12 +1,14 @@
 ## Welcome to Izzy's Website
 
-This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience.
+This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience!
 
-### About me
+### Izzy for the Uninitiated
 
 I began my studies as an undergraduate mechanical engineering student in 2013 at the University of Massachusetts Amherst. Due to extenuating circumstances, I had to leave after the Spring of 2016 and continued my education in 2018, graduating with my Bachelor of Science degree in mechanical engineering in May 2020 during the COVID-19 epidemic.
 
 I was born in Egypt in 1995 and have been moving around the world my whole life, flying out for the first time when I was only 2 weeks old. I became a naturalized US citizen in April 2018.
+
+(Sample Web)[https://github.com/Izzyizfizzy/IndependentStudy/blob/master/index.md]
 ```markdown
 Syntax highlighted code block
 
