@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Izzy's Website
 
-You can use the [editor on GitHub](https://github.com/Izzyizfizzy/Izzyizfizzy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I was born in Egypt in 1995 and have been moving around the world my whole life, flying out for the first time when I was only 2 weeks old. I became a naturalized US citizen in April 2018.
 ```markdown
 Syntax highlighted code block
 
