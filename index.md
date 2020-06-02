@@ -8,7 +8,7 @@ I began my studies as an undergraduate mechanical engineering student in 2013 at
 
 I was born in Egypt in 1995 and have been moving around the world my whole life, flying out for the first time when I was only 2 weeks old. I became a naturalized US citizen in April 2018.
 TEST SOMN
-[Sample Web](https://izzyizfizzy.github.io/IndependentStudy.md)
+[Sample Web](https://izzyizfizzy.github.io/IndependentStudy)
 ```markdown
 Syntax highlighted code block
 
