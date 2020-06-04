@@ -2,7 +2,7 @@
 
 This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience!
 
-### Izzy for the Uninitiated
+### Izzy for the UninitiatedWWWWWWWWWWWWWWWWWww
 docs_list_title: What do you want to know?
 docs:
 - title: About me
