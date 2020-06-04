@@ -3,7 +3,20 @@
 This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience!
 
 ### Izzy for the Uninitiated
-### Academic Career
+docs_list_title: What do you want to know?
+docs:
+- title: About me
+url: google.com
+- title: Academics
+url: google.com
+- title: Research
+url: google.com
+- title: Internships
+url: google.com
+- title: Work Experience
+url: google.com
+
+
 
 I began my studies as an undergraduate mechanical engineering student in 2013 at the University of Massachusetts Amherst. Due to extenuating circumstances, I had to leave after the Spring of 2016 and continued my education in 2018, graduating with my Bachelor of Science degree in mechanical engineering in May 2020 during the COVID-19 epidemic.
 
