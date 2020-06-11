@@ -1,20 +1,14 @@
+---
+title: home
+
+---
+
 ## Welcome to Izzy's Website
 
 This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience!
 
-### Izzy for the UninitiatedWWWWWWWWWWWWWWWWWww
-docs_list_title: What do you want to know?
-docs:
-- title: About me
-url: google.com
-- title: Academics
-url: google.com
-- title: Research
-url: google.com
-- title: Internships
-url: google.com
-- title: Work Experience
-url: google.com
+### Izzy for the Uninitiated
+[Hallooo 1](http://google.com){: .btn-purple }
 
 
 
