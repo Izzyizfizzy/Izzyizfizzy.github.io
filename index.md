@@ -8,8 +8,9 @@ title: home
 This website is currently being updated. Most of my relevant information can be found on my [LinkedIn](https://www.linkedin.com/in/ismael-tahoun-6a031999/) where you can learn more about my academic and engineering work experience!
 
 ### Izzy for the Uninitiated
+<span class="fs-8">
 [Hallooo 1](http://google.com){: .btn-purple }
-
+</span>
 
 
 I began my studies as an undergraduate mechanical engineering student in 2013 at the University of Massachusetts Amherst. Due to extenuating circumstances, I had to leave after the Spring of 2016 and continued my education in 2018, graduating with my Bachelor of Science degree in mechanical engineering in May 2020 during the COVID-19 epidemic.
